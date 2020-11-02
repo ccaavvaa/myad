@@ -40,6 +40,10 @@
         {
           "code": "sport_animaux",
           "label": "Sport"
+        },
+        {
+          "code": "sante",
+          "label": "Sante"
         }
       ]
     }
@@ -118,5 +122,5 @@
       "maxlength":5,
       "save": true
     }
-  ],
+  ]
 ]
