@@ -42,6 +42,10 @@
           "label": "Sport"
         },
         {
+          "code": "travail",
+          "label": "Scoala, Travail"
+        },        
+        {
           "code": "sante",
           "label": "Sante"
         }
