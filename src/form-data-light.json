@@ -34,17 +34,17 @@
       "type": "list",
       "items": [
         {
-          "code": "achats",
-          "label": "Achats"
+          "code": "travail",
+          "label": "Scoala, Travail"
+        },        
+        {
+          "code": "achats_culturel_cultuel",
+          "label": "Achats - Culturel"
         },
         {
           "code": "sport_animaux",
           "label": "Sport"
         },
-        {
-          "code": "travail",
-          "label": "Scoala, Travail"
-        },        
         {
           "code": "sante",
           "label": "Sante"
